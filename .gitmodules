@@ -1,0 +1,3 @@
+[submodule "pygravitydefier"]
+	path = pygravitydefier
+	url = https://github.com/sourcecred/example-git-submodule.git
